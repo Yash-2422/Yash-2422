@@ -119,17 +119,6 @@
 ## 🛒 SmartBasket AI
 
 > AI-powered smart shopping assistant that compares product prices across multiple stores, predicts future prices, recommends alternatives, and helps users save money.
-
-### Tech
-
-- FastAPI
-- React
-- PostgreSQL
-- Redis
-- Docker
-- JWT Authentication
-- AI Recommendation Engine
-
 ---
 
 # 🏅 Achievements
