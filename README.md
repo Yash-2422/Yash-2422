@@ -61,7 +61,7 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=orange" />
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
 </p>
 
 
@@ -156,16 +156,6 @@
 
 ---
 
-# ✨ Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Let's Collaborate
 
 I'm always interested in collaborating on:
@@ -184,6 +174,6 @@ Feel free to connect with me!
 
 <h3 align="center">
 
-⭐ Turning Ideas into Intelligent Solutions ⭐
+⭐ Perfection is not attainable, but if we chase perfection we can catch excellence. ⭐
 
 </h3>
