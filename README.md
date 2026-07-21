@@ -145,22 +145,6 @@
 
 ---
 
-# 📫 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-🤖 AI Projects
-
-🌐 Full Stack Applications
-
-📱 Innovative Startups
-
-🚀 Open Source Contributions
-
-Feel free to connect with me!
-
----
-
 <h3 align="center">
 
 ⭐ Perfection is not attainable, but if we chase perfection we can catch excellence. ⭐
