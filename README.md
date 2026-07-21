@@ -3,18 +3,7 @@
 <!-- =========================== -->
 
 <h1 align="center">Hi 👋, I'm Yash Agrawal</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;FastAPI+%7C+React+%7C+Python+Developer;Open+Source+Learner;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge" />
-</p>
-
----
+<h3 align="center">Aspiring AI & Full Stack Developer</h3>
 
 # 🚀 About Me
 
@@ -32,8 +21,31 @@
 
 ---
 
-# 💼 Experience
+# 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://github.com/Yash-2422">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yash-agrawal-6553b5332/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:yashyatin2203@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/yash_yatin/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Experience
 ### 🤖 AI Intern — Ethara AI
 
 - Worked on AI model training and optimization.
@@ -42,87 +54,66 @@
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
+## 🛠️ Tech Stack
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+### 👨‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=orange" />
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=blue" />
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+</p>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
-</a>
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+</p>
 
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+<img src="https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=red" />
+<img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=green" />
+<img src="https://img.shields.io/badge/NLTK-0A0A0A?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/spaCy-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=blue" />
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=purple" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+</p> 
+
+### 🗄️ Database
+<p>
+<img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
 
 ---
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript"/>
-</p>
-
----
-
-## 🌐 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
-
----
-
-## ⚙ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis"/>
-</p>
-
----
-
-## 🤖 AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-
-<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy"/>
-
-</p>
-
----
-
-## 🧰 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🛒 SmartBasket AI
@@ -138,61 +129,6 @@
 - Docker
 - JWT Authentication
 - AI Recommendation Engine
-
----
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
-- System Design
-- Advanced FastAPI
-- React Ecosystem
-- Docker & DevOps
-- Machine Learning
-- LLM Applications
-- AI Agents
 
 ---
 
